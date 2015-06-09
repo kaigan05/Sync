@@ -13,4 +13,5 @@ kraid
 Darakath
 botlol2
 lolbot2
-hackeros
+hackerosViridianFan
+aaronspong
