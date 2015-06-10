@@ -16,3 +16,4 @@ lolbot2
 hackerosViridianFan
 aaronspong
 dondale8
+cur
