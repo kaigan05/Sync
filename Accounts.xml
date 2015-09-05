@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD
   <Account User="ldyAnton" Password="DZ1SKHW8SOJAiSANPzFXWQ==" />  
   <Account User="prankSTAR" Password="PqKlkwQpvpcS+PdBfAvctA==" />
   <Account User="Gosulove" Password="/Qgi2YmO51ak6tKfQyDymg==" />
@@ -10,3 +11,7 @@
   <Account User="2425113592" Password="+ds0TVFZP65AZ14zHlFMyg==" />
   <Account User="MaxweII" Password="HAVLR8UVVkcGDUmVm6oJJQ==" />
 </ArrayOfAccount>
+=======
+  <Account User="ldyAnton" Password="DZ1SKHW8SOJAiSANPzFXWQ==" />
+</ArrayOfAccount>
+>>>>>>> origin/master
